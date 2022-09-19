@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284029567978",
+    "project_id": "book-loger-6e86d",
+    "storage_bucket": "book-loger-6e86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284029567978:android:19d9032e418dbf64092893",
+        "android_client_info": {
+          "package_name": "com.example.book_logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284029567978-labbp83ouk3n2924gphrdsref6u7kbh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqfWrq3aHRzEg5EOa81OYTMCSsvkC1bxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284029567978-labbp83ouk3n2924gphrdsref6u7kbh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
